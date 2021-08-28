@@ -10,14 +10,17 @@ To attain the objectives two separate queries were ran for the months of June an
 
 ## Analysis
 
-Average temperature of 74.9°F was recorded in June with temperature ranging from 64° - 85°), while,
-Average temperature of 71.0°F was recorded in December with temperature ranging from 56° - 83°) 
+Average temperature of 74.9Â°F was recorded in June with temperature ranging from 64Â° - 85Â°), while,
+Average temperature of 71.0Â°F was recorded in December with temperature ranging from 56Â° - 83Â°) 
 
-  
+![image](https://user-images.githubusercontent.com/82815722/131231138-5cdb2b8c-9c4c-4c1e-af6d-c7c88441cc76.png)
+
+![image](https://user-images.githubusercontent.com/82815722/131231147-ac2ba916-427e-4b16-9c54-a21d891908fd.png)
+ 
 
 ## Summary
 
-Based on the completed analysis, there is only average temperature difference of approximately 4°F, just based on the temperature study, it should not make much difference to the sales between the two months.
+Based on the completed analysis, there is only average temperature difference of approximately 4Â°F, just based on the temperature study, it should not make much difference to the sales between the two months.
 
 In order to forecast the sustainability of the business year-round, further analysis maybe required. 
 
